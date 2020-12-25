@@ -1,9 +1,9 @@
 
 
 <p align="center">
-    <a href="https://github.com/pro-boy/Shibukawa/commits/master"><img src="https://img.shields.io/github/last-commit/hyper-ub/saber/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
-    <a href="https://github.com/pro-boy/Shibukawa/stargazers"><img src="https://img.shields.io/github/stars/hyper-ub/saber?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-    <a href="https://github.com/pro-boy/Shibukawa/network/members"><img src="https://img.shields.io/github/forks/hyper-ub/saber?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+    <a href="https://github.com/pro-boy/Shibukawa/commits/master"><img src="https://img.shields.io/github/last-commit/pro-boy/Shibukawa/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
+    <a href="https://github.com/pro-boy/Shibukawa/stargazers"><img src="https://img.shields.io/github/stars/pro-boy/Shibukawa?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/pro-boy/Shibukawa/network/members"><img src="https://img.shields.io/github/forks/pro-boy/Shibukawa?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
 
